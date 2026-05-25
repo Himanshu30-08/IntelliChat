@@ -107,7 +107,7 @@ async function getBotResponse(userInput) {
     }
 
     // 2. CONNECT TO GEMINI API
-    const API_KEY = "AIzaSyA95oN0tPyyIbT3Pw_g4DpPOP4-T4xKmvU"; // <-- YOUR API KEY
+    const API_KEY = "AIzaSyAqZ_qWWxxeIrTMCFp2KfCfJTwqc0XbiP0"; // <-- YOUR API KEY
     const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${API_KEY}`;
 
     // THE SECRET SAUCE: Tell Gemini exactly how to format image requests
