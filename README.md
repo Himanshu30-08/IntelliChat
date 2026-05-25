@@ -1,0 +1,5 @@
+IntelliChat is a modern real-time chatting web application designed to provide seamless communication between users through a fast, secure, and interactive platform. The application enables users to create accounts, send instant messages, share media, and communicate in real time using advanced web technologies.
+
+Built using the MERN Stack (MongoDB, Express.js, React.js, and Node.js) along with WebRTC and Socket.IO, IntelliChat delivers low-latency messaging and live communication features. The platform includes user authentication, private and group chats, online/offline status indicators, typing indicators, message notifications, and responsive UI support for both desktop and mobile devices.
+
+The main objective of IntelliChat is to create a professional and scalable communication system that demonstrates full-stack development concepts, real-time data transfer, and modern web application architecture. The project focuses on improving user interaction, ensuring data security, and providing an intuitive user experience through a clean and professional interface.
